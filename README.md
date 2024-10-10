@@ -1,7 +1,7 @@
 
 ![JavaScript Web Developer](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
-### Hi there 👋, My name is Tawhid Limon
+# Hi there 👋, My name is Tawhid Limon
 #### JavaScript Web Developer
 
 Love to learn new skills. Now learning JavaScript. Full and fresh hand code is my power. Client satisfaction is my first priority.
@@ -19,9 +19,7 @@ Skills: MONGO DB || EXPRESS JS || REACT || NODE JS || JS || TAILWIND CSS || HTML
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tawhidwebdev)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tawhidwebdev&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/tawhidwebdev/contributions?format=svg&private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tawhidwebdev&show_icons=true&count_private=true) 
 
 ![GitHub metrics](https://metrics.lecoq.io/tawhidwebdev)  
 
